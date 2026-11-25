@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Patricia" width="150" align="right">
+<img src="profile.jpeg" alt="Patricia" width="150" align="right">
 
 # Hi, I'm Patricia 👋
 ### Data Analyst. SQL, Power BI and Excel.
